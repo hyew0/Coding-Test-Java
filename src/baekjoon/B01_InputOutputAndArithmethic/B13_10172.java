@@ -1,4 +1,4 @@
-package B01_InputOutputAndArithmethic;
+package baekjoon.B01_InputOutputAndArithmethic;
 
 /*
 개

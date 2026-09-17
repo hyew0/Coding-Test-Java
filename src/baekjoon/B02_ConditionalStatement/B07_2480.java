@@ -1,4 +1,4 @@
-package B02_ConditionalStatement;
+package baekjoon.B02_ConditionalStatement;
 
 import java.util.Scanner;
 

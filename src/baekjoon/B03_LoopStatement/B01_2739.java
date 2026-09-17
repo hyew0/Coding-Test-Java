@@ -1,4 +1,4 @@
-package B03_LoopStatement;
+package baekjoon.B03_LoopStatement;
 
 import java.util.Scanner;
 
