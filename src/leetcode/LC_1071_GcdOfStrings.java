@@ -1,6 +1,6 @@
 package leetcode;
 
-public class lc_1071_GcdOfStrings {
+public class LC_1071_GcdOfStrings {
     public String gcdOfStrings(String str1, String str2) {
         /*
          핵심 원리:
