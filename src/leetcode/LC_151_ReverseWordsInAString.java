@@ -1,6 +1,6 @@
 package leetcode;
 
-public class LC_15_ReverseWordsInAString {
+public class LC_151_ReverseWordsInAString {
     public String reverseWords(String s) {
         /*
         -불필요한 공백은 제거하되 단어 사이의 하나의 공백은 넣어둘것.
